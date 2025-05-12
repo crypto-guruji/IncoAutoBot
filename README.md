@@ -7,7 +7,7 @@ A fully automated bot for interacting with the Inco Network.
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/crypto-guruji/IncoAutoBot.git
-cd IncoAutoBot-NTE
+cd IncoAutoBot
 ```
 
 ### 2. Install Dependencies
